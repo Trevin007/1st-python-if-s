@@ -5,9 +5,9 @@ drunkness=vodka/beers
 
 print("Drunkness:" + str(drunkness))
 if drunkness >1:
-     print("trevin is a fucking player")
+     print("Trevin is telling the truth")
 elif drunkness<1:
-     print("trevin is innocent ")
+     print("Trevin is innocent ")
 else :
-    print("trevin is a fucking player")
+    print("Trevin is lying")
     
